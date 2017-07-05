@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: [Star]
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - particle effect
+  - charachter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HP
+    uniqueID: 1596376063
+    locked: 0
+  - name: backround
+    uniqueID: 1983813769
+    locked: 0
+  - name: background mist
+    uniqueID: 3423689071
+    locked: 0
+  - name: planten
+    uniqueID: 353739149
+    locked: 0
+  - name: ground + platform
+    uniqueID: 790858949
+    locked: 0
+  - name: power ups en pick ups
+    uniqueID: 672693393
+    locked: 0
+  - name: charachter
+    uniqueID: 1162325463
+    locked: 0
+  - name: stamina score en progress
+    uniqueID: 1855196441
+    locked: 0
